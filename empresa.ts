@@ -40,6 +40,8 @@ class Empleado implements IEmpleado {
     console.log(`Empleado: ${this._nombre}`);
     console.log(`Salario base: $${this._salarioBase}`);
     console.log('gfd');
+    console.log('otro log');
+    
   }
 
   
