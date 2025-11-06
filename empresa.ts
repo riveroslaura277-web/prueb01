@@ -39,7 +39,10 @@ class Empleado implements IEmpleado {
   mostrarInfo(): void {
     console.log(`Empleado: ${this._nombre}`);
     console.log(`Salario base: $${this._salarioBase}`);
+    console.log('gfd');
   }
+
+  
 }
 
 // Clase h
